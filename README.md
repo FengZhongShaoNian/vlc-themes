@@ -1,4 +1,4 @@
-# VLC-Dark skins
+# VLC skins (Dark)
 
 
 
